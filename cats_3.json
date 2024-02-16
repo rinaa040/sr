@@ -1,0 +1,32 @@
+[
+  {
+    "first_name": "Anna",
+    "last_name": "Petrova",
+    "login": "login1"
+  },
+  {
+    "first_name": "Max",
+    "last_name": "Popov",
+    "login": "login3"
+  },
+  {
+    "first_name": "Vika",
+    "last_name": "Semenova",
+    "login": "login5"
+  },
+  {
+    "first_name": "Olga",
+    "last_name": "Dimova",
+    "login": "login6"
+  },
+  {
+    "first_name": "Dimon",
+    "last_name": "Malov",
+    "login": "login7"
+  },
+  {
+    "first_name": "Den",
+    "last_name": "Uglov",
+    "login": "login8"
+  }
+]
