@@ -9,5 +9,5 @@ parser.add_argument('--digits', type=int, default=1)
 parser.add_argument('--mult', type=int, default=1)
 
 args = parser.parse_args()
-response = requests.get(f"http://{args.server}/{args.port}").json()
+response = requests.get(f"{args.server}:{args.port}").json()
 print(args.key)
